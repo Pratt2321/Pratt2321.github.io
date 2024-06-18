@@ -114,7 +114,12 @@ content:
         quote: >
           East Lansing, MI | GPA: 3.8/4.0
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Relevant Coursework:
+          STT 380 Probability and Statistics for Data Science, 
+          MTH 235 Differential Equations, 
+          MTH 314 Matrix Algebra with Computational Applications, 
+          CMSE 381 Fundamentals of Data Science Methods, 
+          MTH 299 Transitions 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
