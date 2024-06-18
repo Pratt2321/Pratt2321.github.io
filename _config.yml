@@ -39,7 +39,7 @@ linkedin_username: prathampradhan
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: headshot.jpg
+about_profile_image: images\headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
 Hello! My name is Pratham, and I am a data science student at Michigan State University. I currently intern at GE Aerospace, actively engaged in projects creating data pipelines 
 capturing telemetry from Azure M365. At MSU, I conduct undergraduate research involving EEG analysis and DenseNets. Additionally, I lead the AI Club as well as the Finance team 
