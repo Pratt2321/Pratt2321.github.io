@@ -39,22 +39,23 @@ linkedin_username: prathampradhan
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images\headshot.jpg
+about_profile_image: images/headshot.jpg
 about_content: | # this will include new lines to allow paragraphs
-Hello! My name is Pratham, and I am a data science student at Michigan State University. I currently intern at GE Aerospace, actively engaged in projects creating data pipelines 
-capturing telemetry from Azure M365. At MSU, I conduct undergraduate research involving EEG analysis and DenseNets. Additionally, I lead the AI Club as well as the Finance team 
-for SpartaHack. 
+  Hello! My name is Pratham, and I am a data science student at Michigan State University. I currently intern at GE Aerospace, actively engaged in projects creating data pipelines 
+  capturing telemetry from Azure M365. At MSU, I conduct undergraduate research involving EEG analysis and DenseNets. Additionally, I lead the AI Club as well as the Finance team 
+  for SpartaHack. 
 
-As an aspiring data scientist, I am committed to honing my skills and acquiring practical experience through higher education and internships. Proficient in Python, R, and SQL, 
-I am passionate about leveraging these skills to drive insights and innovation. I am eager to connect, collaborate, and contribute — feel free to message me! 
+  As an aspiring data scientist, I am committed to honing my skills and acquiring practical experience through higher education and internships. Proficient in Python, R, and SQL, 
+  I am passionate about leveraging these skills to drive insights and innovation. I am eager to connect, collaborate, and contribute — feel free to message me! 
 
-Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 
 content:
   - title: Projects # Title for the section
@@ -93,11 +94,11 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Michigan State University
+        sub_title: BS Computation Data Science
+        caption: 2022 - 2026
         quote: >
-          Short institution or course description (optional)
+          Go Green!
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
