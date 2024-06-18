@@ -26,6 +26,16 @@
       {% else %}
         {%- include v1/default.html -%}
       {%- endif -%}
+
+      <!-- Spotify Widget Section -->
+      <div class="container spotify-container">
+        <h3 id="spotify">Currently Listening To</h3>
+        <p align="center">
+          <a href="https://spotify-github-profile.vercel.app/api/view?uid={{ site.spotify.user_id }}&redirect=true" target="_blank">
+            <img src="https://spotify-github-profile.vercel.app/api/view?uid={{ site.spotify.user_id }}&cover_image={{ site.spotify.cover_image }}&theme={{ site.spotify.theme }}&show_offline={{ site.spotify.show_offline }}&background_color={{ site.spotify.background_color }}&interchange={{ site.spotify.interchange }}&bar_color={{ site.spotify.bar_color }}&bar_color_cover={{ site.spotify.bar_color_cover }}" alt="Spotify" />
+          </a>
+        </p>
+      </div>
     </div>
   </main>
 
