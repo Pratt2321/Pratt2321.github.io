@@ -115,12 +115,11 @@ content:
       Or you could title it **Certifications** and write about the certifications you have, like *AWS Certified Solutions Architect* or *Google IT Support Professional Certificate*
 
 # Fun Fact Section
-fun_fact: ⚡ Fun fact: I am proficient in using the soroban abacus.
+fun_fact: "⚡ Fun fact: I am proficient in using the soroban abacus."
 
 # Languages and Frameworks Section
-languages_frameworks_title: 💼 Languages and Frameworks
+languages_frameworks_title: "💼 Languages and Frameworks"
 languages_frameworks_content: |
-  ---
   <i class="devicon-vscode-plain colored"></i>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='50' height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width='50' height='50'/>
@@ -157,14 +156,14 @@ languages_frameworks_content: |
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width='50' height='50'/>
 
 # Music Section
-music_title: 🎧 What am I listening to?
+music_title: "🎧 What am I listening to?"
 music_content: |
-  ---
   <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
     </a>
   </p>
+
 
 # Footer
 footer_show_references: true
