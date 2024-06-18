@@ -58,26 +58,22 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+- title: Education
+    layout: list
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+      - layout: top-right
+        title: Michigan State University
+        sub_title: Bachelor of Science in Computational Data Science, Minors in Math and Economics
+        caption: August 2022 - May 2026
         quote: >
-          Short overview of the project (optional)
+          East Lansing, MI | GPA: 3.8/4.0
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Relevant Coursework:
+          STT 380 Probability and Statistics for Data Science, 
+          MTH 235 Differential Equations, 
+          MTH 314 Matrix Algebra with Computational Applications, 
+          CMSE 381 Fundamentals of Data Science Methods, 
+          MTH 299 Transitions 
   - title: Experience
     layout: list
     content:
@@ -104,22 +100,6 @@ content:
           Selected for a highly selective program dedicated to the top 1% of incoming freshmen to conduct undergraduate research in a group of like-minded students, focusing on computational imaging and machine learning subjects.
           Analyze EEG data for a mantra meditation study with 23 subjects, revealing improved cognition in young adults and resulting in the submission and acceptance of an abstract to the Society for Neuroscience.
           Created and now survey the research team's dynamic website, disseminating complex technical concepts to a large audience, promoting 25 monthly contact submissions, and blocking 80% of reCAPTCHA suspicious requests.
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Michigan State University
-        sub_title: Bachelor of Science in Computational Data Science, Minors in Math and Economics
-        caption: August 2022 - May 2026
-        quote: >
-          East Lansing, MI | GPA: 3.8/4.0
-        description: | # this will include new lines to allow paragraphs
-          Relevant Coursework:
-          STT 380 Probability and Statistics for Data Science, 
-          MTH 235 Differential Equations, 
-          MTH 314 Matrix Algebra with Computational Applications, 
-          CMSE 381 Fundamentals of Data Science Methods, 
-          MTH 299 Transitions 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
