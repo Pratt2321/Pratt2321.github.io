@@ -98,7 +98,7 @@ content:
         sub_title: BS Computation Data Science
         caption: 2022 - 2026
         quote: >
-          Go Green!
+          Go Gr
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
@@ -108,12 +108,6 @@ content:
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
-      Or you could title it **Hobbies** and write about your hobbies, like *reading* or *swimming*
-
-      Or you could title it **Languages** and write about the languages you speak, like *English* or *Spanish*
-
-      Or you could title it **Certifications** and write about the certifications you have, like *AWS Certified Solutions Architect* or *Google IT Support Professional Certificate*
-      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
