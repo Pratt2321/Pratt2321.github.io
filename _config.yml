@@ -88,22 +88,22 @@ content:
         caption: May 2023 - August 2023
         link: # Link to company (optional)
         quote: >
-        GreenStone Farm Credit Services, East Lansing, MI
+          GreenStone Farm Credit Services, East Lansing, MI
         description: |
-        Managed and provided daily operations of troubleshooting calls, offering exceptional technical assistance to multiple departments in 35 locations throughout Michigan and Northeast Wisconsin.
-        Organized and executed a large-scale phone replacement project for 120 employees by preplanning and analyzing logistics, confirming a seamless transition and minimal disruption to workflow during the phone upgrade.
-        Demonstrated proficiency in operating and bolstering critical IT infrastructure, including Azure Active Directory, Secret Server, and Office 365 platforms, assuring access and security controls for a large user base.
+          Managed and provided daily operations of troubleshooting calls, offering exceptional technical assistance to multiple departments in 35 locations throughout Michigan and Northeast Wisconsin.
+          Organized and executed a large-scale phone replacement project for 120 employees by preplanning and analyzing logistics, confirming a seamless transition and minimal disruption to workflow during the phone upgrade.
+          Demonstrated proficiency in operating and bolstering critical IT infrastructure, including Azure Active Directory, Secret Server, and Office 365 platforms, assuring access and security controls for a large user base.
     - layout: right
         title: MSU College of Engineering
         sub_title: Undergraduate Researcher
         caption: September 2022 - Present
         link: # Link to company (optional)
         quote: >
-        MSU College of Engineering, East Lansing, MI
+          MSU College of Engineering, East Lansing, MI
         description: |
-        Selected for a highly selective program dedicated to the top 1% of incoming freshmen to conduct undergraduate research in a group of like-minded students, focusing on computational imaging and machine learning subjects.
-        Analyze EEG data for a mantra meditation study with 23 subjects, revealing improved cognition in young adults and resulting in the submission and acceptance of an abstract to the Society for Neuroscience.
-        Created and now survey the research team's dynamic website, disseminating complex technical concepts to a large audience, promoting 25 monthly contact submissions, and blocking 80% of reCAPTCHA suspicious requests.
+          Selected for a highly selective program dedicated to the top 1% of incoming freshmen to conduct undergraduate research in a group of like-minded students, focusing on computational imaging and machine learning subjects.
+          Analyze EEG data for a mantra meditation study with 23 subjects, revealing improved cognition in young adults and resulting in the submission and acceptance of an abstract to the Society for Neuroscience.
+          Created and now survey the research team's dynamic website, disseminating complex technical concepts to a large audience, promoting 25 monthly contact submissions, and blocking 80% of reCAPTCHA suspicious requests.
 
   - title: Education
     layout: list
