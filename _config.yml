@@ -58,26 +58,26 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak
         title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme) (optional)
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme) (optional)
+          - title: Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme) (optional)
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           Description about the work on/with the project
+
   - title: Experience
     layout: list
     content:
@@ -88,8 +88,9 @@ content:
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Description of role
+
   - title: Education
     layout: list
     content:
@@ -99,11 +100,12 @@ content:
         caption: 2022 - 2026
         quote: >
           Go Green!
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Description of qualification
+
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
@@ -115,10 +117,51 @@ content:
       Or you could title it **Certifications** and write about the certifications you have, like *AWS Certified Solutions Architect* or *Google IT Support Professional Certificate*
 
   - title: Languages and Frameworks
+    layout: text
+    content: |
+      ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg "VSCode")
+      ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg "Jupyter")
+      ![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg "PyCharm")
+      ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg "Python")
+      ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg "NumPy")
+      ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg "Pandas")
+      ![NetworkX](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg "NetworkX")
+      ![Kaggle](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg "Kaggle")
+      ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg "Ubuntu")
+      ![PowerShell](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg "PowerShell")
+      ![R](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg "R")
+      ![Stata](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg "Stata")
+      ![Azure SQL Database](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg "Azure SQL Database")
+      ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg "HTML5")
+      ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg "CSS3")
+      ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg "JavaScript")
+      ![Jekyll](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg "Jekyll")
+      ![Streamlit](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg "Streamlit")
+      ![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg "Vercel")
+      ![Scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg "Scikit-learn")
+      ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg "TensorFlow")
+      ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg "PyTorch")
+      ![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg "Keras")
+      ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg "Git")
+      ![Notion](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg "Notion")
+      ![OAuth](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg "OAuth")
+      ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg "Azure")
+      ![CosmosDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg "CosmosDB")
+      ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg "AWS")
+      ![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg "Terraform")
+      ![Splunk](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg "Splunk")
+      ![Confluence](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg "Confluence")
+      ![GraphQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg "GraphQL")
+
+- title: What am I listening to?
   layout: text
   content: |
-    ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg "VSCode")
-    ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg "Jupyter")
+    <p align="center">
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&redirect=true" target="_blank">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=kzt594yybncir90pdvcbtypqj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+      </a>
+    </p>
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
