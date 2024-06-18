@@ -56,6 +56,15 @@ about_content: | # this will include new lines to allow paragraphs
   #   - <a href="google.com">Links</a>
   #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
+spotify:
+  user_id: "kzt594yybncir90pdvcbtypqj"
+  cover_image: true
+  theme: "default"
+  show_offline: false
+  background_color: "121212"
+  interchange: false
+  bar_color: "53b14f"
+  bar_color_cover: false
 
 content:
   - title: Education
