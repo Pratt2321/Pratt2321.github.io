@@ -93,7 +93,6 @@ content:
           Organized and executed a large-scale phone replacement project for 120 employees by preplanning and analyzing logistics, confirming a seamless transition and minimal disruption to workflow during the phone upgrade.
           Demonstrated proficiency in operating and bolstering critical IT infrastructure, including Azure Active Directory, Secret Server, and Office 365 platforms, assuring access and security controls for a large user base.
 
-
       - layout: right
         title: MSU College of Engineering
         sub_title: Undergraduate Researcher
@@ -110,10 +109,10 @@ content:
     content:
       - layout: top-right
         title: Michigan State University
-        sub_title: BS Computation Data Science
-        caption: 2022 - 2026
+        sub_title: Bachelor of Science in Computational Data Science, Minors in Math and Economics
+        caption: August 2022 - May 2026
         quote: >
-          Go Green!
+          East Lansing, MI | GPA: 3.8/4.0
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
