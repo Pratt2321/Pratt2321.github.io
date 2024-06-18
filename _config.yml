@@ -92,8 +92,8 @@ content:
           Managed and provided daily operations of troubleshooting calls, offering exceptional technical assistance to multiple departments in 35 locations throughout Michigan and Northeast Wisconsin.
           Organized and executed a large-scale phone replacement project for 120 employees by preplanning and analyzing logistics, confirming a seamless transition and minimal disruption to workflow during the phone upgrade.
           Demonstrated proficiency in operating and bolstering critical IT infrastructure, including Azure Active Directory, Secret Server, and Office 365 platforms, assuring access and security controls for a large user base.
-    layout: list
-    content:
+
+
       - layout: right
         title: MSU College of Engineering
         sub_title: Undergraduate Researcher
