@@ -115,10 +115,10 @@ content:
       Or you could title it **Certifications** and write about the certifications you have, like *AWS Certified Solutions Architect* or *Google IT Support Professional Certificate*
 
   - title: Languages and Frameworks
-    layout: list
-    content: |
-      <i class="devicon-vscode-plain colored"></i>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='50' height='50'/>
+  layout: text
+  content: |
+    ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg "VSCode")
+    ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg "Jupyter")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
